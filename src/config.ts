@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://myAILabs.github.io/", // replace this with your deployed domain
+  website: "https://myAILabs.pages.dev/", // replace this with your deployed domain
   author: "Stefan Ianta",
   profile: "https://stefian.github.io/",
   desc: "Exploring the AI universe, one experiment at a time.",
-  title: "myAILabs",
+  title: "my AI Labs",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
