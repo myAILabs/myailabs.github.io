@@ -16,3 +16,5 @@ description: Experimenting with a verbose but intuitive XYZ AI folder structure 
 ## Experiment 1: Image in cell1 of row1 of tab1
 
 See below image rendered from markdown in cell1 of row1 of tab1.
+
+![Intuitive XYZ AI Format](/assets/images/xyz-intuitive.png)
