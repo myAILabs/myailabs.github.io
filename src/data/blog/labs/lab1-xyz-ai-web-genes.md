@@ -21,6 +21,10 @@ Facilitating the development and deployment of transactional Biz-Ops-Pay engines
 
 The XYZ AI structure for Web Genes is designed to streamline the creation and deployment of AI agents as web-based applications. This lab explores the foundational concepts and practical implementations of the XYZ AI folder structure.
 
-## Exp. 1: Verbose ztab/yrow/xcell Folder Structure
+## List of Experiments
+
+- 1. Verbose tabZ/rowY/cellX Folder Structure
+
+### Exp. 1: Verbose ztab/yrow/xcell Folder Structure
 
 In this experiment, we set up a basic XYZ AI folder structure to organize our AI agent's files effectively.
