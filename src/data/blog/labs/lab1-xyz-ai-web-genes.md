@@ -23,7 +23,7 @@ The XYZ AI structure for Web Genes is designed to streamline the creation and de
 
 ## List of Experiments
 
-- 1. Verbose tabZ/rowY/cellX Folder Structure
+- 1. Intuitive tabZ/rowY/cellX Folder Structure
 
 ### Exp. 1: Verbose ztab/yrow/xcell Folder Structure
 
