@@ -2,7 +2,7 @@
 title: Exp1. Verbose & Intuitive XYZ AI format
 author: Stef Ianta
 pubDatetime: 2025-12-08T03:04:00Z
-slug: example-iamge-in-cell
+slug: example-image-in-cell
 featured: true
 draft: false
 tags:
