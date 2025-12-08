@@ -1,0 +1,17 @@
+{
+  "yaml.schemas": {
+    "./frontmatter.schema.json": ["**/*.md", "**/*.markdown"]
+  },
+  "yaml.validate": true,
+  "yaml.format.enable": true,
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  "editor.rulers": [80, 100],
+  "editor.wordWrap": "bounded",
+  "editor.wrappingIndent": "indent",
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": true
+  }
+}

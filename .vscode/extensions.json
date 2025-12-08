@@ -1,4 +1,12 @@
 {
+  "recommendations": [
+    "redhat.vscode-yaml",
+    "bungcip.better-toml",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced"
+  ]
+}
+{
   "recommendations": ["astro-build.astro-vscode"],
   "unwantedRecommendations": []
 }
