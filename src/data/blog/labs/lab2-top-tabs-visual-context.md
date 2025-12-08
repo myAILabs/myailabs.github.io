@@ -2,7 +2,7 @@
 title: Lab2. Visual Status & Context views for web AI Agents
 author: Stef Ianta
 pubDatetime: 2025-12-08T07:53:00Z
-slug: lab1-xyz-ai-web-genes
+slug: lab2-nxn-ai-agent-tab-view
 featured: true
 draft: false
 tags:
