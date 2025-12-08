@@ -17,4 +17,4 @@ description: Experimenting with a short XYZ AI format for organizing content in 
 
 See below folders image for experiments 1 and 2.
 
-![Intuitive XYZ AI Format](/assets/images/xyz-short.png)
+![Short XYZ AI Format](/assets/images/xyz-short.png)
