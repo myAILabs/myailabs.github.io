@@ -10,7 +10,7 @@ tags:
   - Web Genes
   - AI Agents
   - Astro
-description: Experimenting with a short XYZ AI folder structure for organizing content in zZ/yY/xX format.
+description: Experimenting with a short XYZ AI format for organizing content in zZ/yY/xX format.
 ---
 
 ## Experiment 2: Text in cell x1 of y1 of z1
