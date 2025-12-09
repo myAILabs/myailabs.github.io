@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/myAILabs/myAILabs.github.io/astro-paper/edit/main/",
+    url: "https://github.com/myAILabs/myAILabs.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
