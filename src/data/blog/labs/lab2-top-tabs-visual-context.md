@@ -20,6 +20,8 @@ Facilitating rapid development and monitoring of AI Agents and traction-oriented
 ## Overview
 
 Custom 2x2 and 3x3 tab views should help AI Agent owners to quickly understand the agent status and context (in dev or monetization stage) and take action.
+Other structures, such as 3x4, could be used to review side by side the AI Agent's Leaner Canvas prompts and their cross-business model results.
+
 
 ## List of Experiments
 
