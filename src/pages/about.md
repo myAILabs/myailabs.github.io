@@ -3,7 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+myAILabs is a blog about my AI experiments as an AI PM.
+
+If you like myAILabs, consider giving it a star ⭐️ on GitHub.
+
+Blog theme: [AstroPaper](https://github.com/satnaing/astro-paper).
 
 ![Astro Paper](public/astropaper-og.jpg)
 
